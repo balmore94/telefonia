@@ -1,0 +1,17 @@
+
+*.class
+
+pr2_telefonia/.settings/
+
+*.properties
+
+pr2_telefonia/.project
+
+pr2_telefonia/build/
+
+pr2_telefonia/target/
+target/
+
+.settings/
+
+.project

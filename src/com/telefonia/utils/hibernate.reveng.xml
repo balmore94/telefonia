@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.org/dtd/hibernate-reverse-engineering-3.0.dtd" >
+
+<hibernate-reverse-engineering>
+  <table-filter match-catalog="si_telefonia" match-name="clientes"/>
+  <table-filter match-catalog="si_telefonia" match-name="configuracion"/>
+  <table-filter match-catalog="si_telefonia" match-name="cons_extra"/>
+  <table-filter match-catalog="si_telefonia" match-name="contratos"/>
+  <table-filter match-catalog="si_telefonia" match-name="ctrl_serv"/>
+  <table-filter match-catalog="si_telefonia" match-name="departamentos"/>
+  <table-filter match-catalog="si_telefonia" match-name="descripcion"/>
+  <table-filter match-catalog="si_telefonia" match-name="detalle"/>
+  <table-filter match-catalog="si_telefonia" match-name="direcciones"/>
+  <table-filter match-catalog="si_telefonia" match-name="facturas"/>
+  <table-filter match-catalog="si_telefonia" match-name="municipios"/>
+  <table-filter match-catalog="si_telefonia" match-name="personas"/>
+  <table-filter match-catalog="si_telefonia" match-name="servicios"/>
+  <table-filter match-catalog="si_telefonia" match-name="tipo_contrato"/>
+  <table-filter match-catalog="si_telefonia" match-name="tipo_usu"/>
+  <table-filter match-catalog="si_telefonia" match-name="usuarios"/>
+</hibernate-reverse-engineering>
